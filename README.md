@@ -12,7 +12,14 @@ Prereqs
 
 pip install flask-sockets
 
-pip install ws4py
+pip install ws4py  
+  
+External Sources Used
+=======
+
+Hello Kitty Image from: http://www.duckykitty.com/hello-kitty-desktop-wallpapers.htm  
+  
+Hello Kitty Glitter cursor: http://www.picgifs.com/glitter-gifs/hello-kitty/picgifs-hello-kitty-143525-1012479/  
 
 Contributors / Licensing
 ========================
