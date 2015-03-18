@@ -17,6 +17,10 @@ pip install ws4py
 Contributors / Licensing
 ========================
 
+Paired program with Pranjali Pokharel  
+Collaborated with:  
+UACS  
+
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
 freetests.py is LICENSE'D under a BSD-like license:
