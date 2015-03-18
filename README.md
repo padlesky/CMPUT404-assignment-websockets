@@ -27,6 +27,9 @@ freetests.py is LICENSE'D under a BSD-like license:
 
 From ws4py
 
+Copyright (c) 2015, Pranjali Pokharel, Aaron Padlesky
+All rights reserved.
+
 Copyright (c) 2011-2014, Sylvain Hellegouarch, Abram Hindle
 All rights reserved.
 
